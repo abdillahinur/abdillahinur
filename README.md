@@ -16,6 +16,16 @@
 
 ---
 
+### Currently Listening To 🎧
+
+[![Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://www.youtube.com/watch?v=FSVHx23ByhM)
+
+<a href="https://www.youtube.com/watch?v=FSVHx23ByhM">
+  <img src="https://img.youtube.com/vi/FSVHx23ByhM/0.jpg" alt="YouTube Thumbnail" width="280" height="210">
+</a>
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
 
@@ -42,7 +52,5 @@ No Activity Tracked This Week
 
 Last Updated on 11/10/2024 18:44:38 UTC
 <!--END_SECTION:waka-->
-
-![Snake animation](https://github.com/abdillahinur/abdillahinur/blob/output/github-contribution-grid-snake.svg)
 
 ![Toronto Skyline](https://vastphotos.com/files/uploads/photos/10579/toronto-skyline-photo-l.jpg?v=20220712073521)
