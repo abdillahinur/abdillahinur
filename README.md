@@ -1,60 +1,39 @@
-# Hi there, I'm Abdillahi - aka [abdillahinur](https://github.com/abdillahinur) <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-
-<img align="right" alt="Duck GIF" height="160px" src="https://media1.tenor.com/m/GLZZKZJyJAEAAAAd/dance-dancing-duck.gif" />
+# Hi there! 👋 I'm [Your Name]
 
 ## I'm a Full Stack Developer
 
 - 🚀 Building apps I'm passionate about and innovating with AI and LLMs
 - 🧠 Exploring the frontiers of artificial intelligence and machine learning
 - 🌟 Constantly pushing the boundaries of what's possible in tech
-- 📫 Best way to contact me: [Twitter](https://twitter.com/realbardiesel) or Email
+- 📫 Best way to contact me: Twitter or Email
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdillahinur)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdillahi-nur/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
+<img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/assets/duck_walk.gif" width="50" height="50">
+
+## 🛠 Skills
+
+<!-- Add your skills here, for example: -->
+- Languages: JavaScript, Python, Java
+- Frontend: React, Vue.js, HTML, CSS
+- Backend: Node.js, Express, Django
+- Databases: MongoDB, PostgreSQL
+- Tools & Others: Git, Docker, AWS
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+
+## 🤝 Connect with me
+
+<!-- Add your social media links here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedInUsername])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YourTwitterUsername])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[YourPortfolioURL])
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Currently Listening To 🎧
-
-[![Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://www.youtube.com/watch?v=FSVHx23ByhM)
-
-<a href="https://www.youtube.com/watch?v=FSVHx23ByhM">
-  <img src="https://img.youtube.com/vi/FSVHx23ByhM/0.jpg" alt="YouTube Thumbnail" width="280" height="210">
-</a>
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning    73 commits     ███████░░░░░░░░░░░░░░░░░░   27.97%
-🌆 Daytime    117 commits    ███████████░░░░░░░░░░░░░░   44.83%
-🌃 Evening    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   06.13%
-🌙 Night      55 commits     █████░░░░░░░░░░░░░░░░░░░░   21.07%
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages:
-No Activity Tracked This Week
-
-🔥 Editors:
-No Activity Tracked This Week
-```
-
-Last Updated on 11/10/2024 18:44:38 UTC
-<!--END_SECTION:waka-->
-
-![Snake animation](https://github.com/abdillahinur/abdillahinur/blob/output/github-contribution-grid-snake.svg)
-
-![Toronto Skyline](https://vastphotos.com/files/uploads/photos/10579/toronto-skyline-photo-l.jpg?v=20220712073521)
+⭐️ From [@YourUsername](https://github.com/[YourUsername])
