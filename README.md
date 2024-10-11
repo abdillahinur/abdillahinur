@@ -1,6 +1,6 @@
 # Hi there, I'm Abdillahi - aka [abdillahinur](https://github.com/abdillahinur) <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="Duck GIF" height="160px" src="https://media1.tenor.com/m/GLZZKZJyJAEAAAAd/dance-dancing-duck.gif" />
 
 ## I'm a Full Stack Developer
 
@@ -20,10 +20,10 @@
 
 ### Currently Listening To 🎧
 
-[![Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://www.youtube.com/watch?v=FSVHx23ByhM)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="YouTube Thumbnail" width="280" height="210">
+<a href="https://www.youtube.com/watch?v=FSVHx23ByhM">
+  <img src="https://img.youtube.com/vi/FSVHx23ByhM/0.jpg" alt="YouTube Thumbnail" width="280" height="210">
 </a>
 
 ---
@@ -55,6 +55,6 @@ No Activity Tracked This Week
 Last Updated on 11/10/2024 18:44:38 UTC
 <!--END_SECTION:waka-->
 
+![Snake animation](https://github.com/abdillahinur/abdillahinur/blob/output/github-contribution-grid-snake.svg)
 
-
-![](https://vastphotos.com/files/uploads/photos/10579/toronto-skyline-photo-l.jpg?v=20220712073521)
+![Toronto Skyline](https://vastphotos.com/files/uploads/photos/10579/toronto-skyline-photo-l.jpg?v=20220712073521)
